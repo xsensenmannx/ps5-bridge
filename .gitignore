@@ -1,0 +1,4 @@
+build/
+ps5-bridge.elf
+src/webui_assets.h
+*.o
